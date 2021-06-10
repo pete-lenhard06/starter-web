@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Making some more changes to this file.
+
 ## How to Contribute
+
+More text is adding this text.
