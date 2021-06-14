@@ -17,3 +17,7 @@ Making some more changes to this file.
 ## How to Contribute
 
 More text is adding this text.
+
+### Copyright
+
+2021 Git.Training
