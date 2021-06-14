@@ -16,7 +16,7 @@ Making some more changes to this file.
 
 ## How to Contribute
 
-More text is adding this text.
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
