@@ -16,7 +16,7 @@ Making some more changes to this file.
 
 ## How to Contribute
 
-Please fork this repository and then issue Pull Requests for review.  Adding some more text for rebasing example.
+Please fork this repository and then issue Pull Requests for review.  Adding some more text for rebasing example, then more changes from my feature branch too.
 
 ### Copyright
 
