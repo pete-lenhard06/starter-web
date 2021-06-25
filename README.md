@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-This is an example of how to show different sections in a repo.
+This is an example of how to show different sections in a repo. Emergency fix after stash.
 
 ## Purpose
 
