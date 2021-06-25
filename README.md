@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.  Adding som
 
 ### Copyright
 
-2021 Git.Training
+2021 Git.Training. All rights reserved.
